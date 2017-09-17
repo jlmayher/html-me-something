@@ -5,13 +5,24 @@ h1 {
     margin-right: 10;
 }
 h2 {
+    font-size: 26px;
     color: #005A31;
+    margin-left: 25px;
 }
 p {
-    font-size: 20px
+    font-size: 20px;
+    margin: 25px;
 }
 main {
     background-color: #F3FAB6;
+}
+article {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+footer {
+    background-color: #005A31;
+    color: #F3FAB6;
 }
 a:hover{
      text-decoration:none;
@@ -23,6 +34,7 @@ a:hover{
     font-size: 24px;
     color: #F3FAB6;
     background-color: #005A31;
+    text-align: center;
 }
 
 #story {
@@ -34,6 +46,7 @@ a:hover{
      font-family: Verdana;
      text-align: top;
      margin-bottom:100;
+     margin-left: 25px;
  }
 
 #beginning {
