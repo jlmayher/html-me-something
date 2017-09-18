@@ -1,7 +1,7 @@
 h1 {
     font-size: 24px;
     color: #005A31;
-    
+    margin-left: 25px;
     margin-right: 10;
 }
 h2 {
@@ -68,6 +68,33 @@ a:hover{
     background-color: white;
     border: 2px solid black;
 }
+
+#not_a_story{
+    background-color: #669c83;
+    border: 2px solid #492f16;
+}
+
+#cuivrepics{
+    margin: 25px;
+}
+
+#castlewoodpics{
+    margin: 25px;
+}
+
+.cuivre{
+    max-width:45%;
+    max-height:45%;
+    display: inline-block;
+}
+
+#rotate90 {
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
  
 .side {
     display:inline-block;
